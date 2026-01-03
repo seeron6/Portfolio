@@ -81,7 +81,7 @@ const ModernScene: React.FC = () => {
           <div className="h-10 bg-[#050505] flex items-center justify-between px-6 border-b border-zinc-800 z-20 shrink-0">
             <div className="flex items-center gap-2">
                <div className="w-1.5 h-1.5 bg-red-600 rounded-full animate-pulse shadow-[0_0_8px_#dc2626]"></div>
-               <span className="text-[10px] uppercase tracking-[0.25em] text-zinc-500 font-bold">SOURCE: BRAIN_WEBER_DEV</span>
+               <span className="text-[10px] uppercase tracking-[0.25em] text-zinc-500 font-bold">SOURCE: THE_100_DEV</span>
             </div>
             <div className="text-[10px] text-zinc-600 font-mono flex gap-4">
               <span>HDR10+</span>
